@@ -193,10 +193,6 @@ module.exports.weixin = {
 
 ## 致谢
 
-感谢媳妇的支持，感谢大家的祝福。
-
-感谢项目中使用的所有开源项目和服务：
-
 * Mysql、Nodejs、Sails、Sequelize、Bluebird、wechat-oauth
 * WeUI、jQuery、jquery.fullPage、slick、CommentCoreLibrary(CCL弹幕)、高德地图、iconfont
 
